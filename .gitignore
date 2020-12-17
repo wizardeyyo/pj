@@ -12,7 +12,7 @@
 
 # Package Files #
 *.jar
-*.war
+*.js
 *.nar
 *.ear
 *.zip
